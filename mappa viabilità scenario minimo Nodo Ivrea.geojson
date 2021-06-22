@@ -48659,7 +48659,8 @@
         "marker-size": "medium",
         "marker-symbol": "car",
         "AZIONE": "Chiusura A5 tratto Qunicinetto-Ivrea",
-        "CONSEGUENZE": "DEVIAZIONET TRAFFICO IN DIREZIONE SUD verso SS26"
+        "CONSEGUENZE": "DEVIAZIONET TRAFFICO IN DIREZIONE SUD verso SS26",
+        "SOGGETTO": "ATIVA"
       },
       "geometry": {
         "type": "Point",
@@ -48677,7 +48678,8 @@
         "marker-symbol": "car",
         "AZIONE": "Chiusura A5 tratto Ivrea-Quincinetto",
         "CONSEGUENZE": "DEVIAZIONET TRAFFICO IN DIREZIONE NORD verso SS26",
-        "ALTERNATIVE": "RITORNO MEZZI VERSO TORINO PER DEVIAZIONE TRAFFICO INTERNAZIONALE verso VALICO FREJUS"
+        "ALTERNATIVE": "RITORNO MEZZI VERSO TORINO PER DEVIAZIONE TRAFFICO INTERNAZIONALE verso VALICO FREJUS",
+        "SOGGETTO": "ATIVA"
       },
       "geometry": {
         "type": "Point",
@@ -48694,7 +48696,8 @@
         "marker-size": "medium",
         "marker-symbol": "car",
         "AZIONE": "CHIUSURA RACCORDO AUTOSTRADALE A4-A5",
-        "CONSEGUENZE": "PROSECUZIONE TRAFFICO VEICOLARE IN A5VERSO IVREA A POI USCITA OBBLIGATORIA"
+        "CONSEGUENZE": "PROSECUZIONE TRAFFICO VEICOLARE IN A5VERSO IVREA A POI USCITA OBBLIGATORIA",
+        "SOGGETTO": "ANAS"
       },
       "geometry": {
         "type": "Point",
@@ -48712,7 +48715,8 @@
         "marker-symbol": "car",
         "AZIONE": "CHIUSURA RACCORDO AUTOSTRADALE A4-A5",
         "CONSEGUENZE": "USCITA OBBLIGATORIA AD ALBIANO E ed IMMISSIONE su SP80",
-        "ALTERNATIVE": "rientro del traffico veicolare su raccordo A4-A5 in direzione SANTHIÀ"
+        "ALTERNATIVE": "rientro del traffico veicolare su raccordo A4-A5 in direzione SANTHIÀ",
+        "SOGGETTO": "ANAS"
       },
       "geometry": {
         "type": "Point",
@@ -49032,7 +49036,8 @@
         "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "car",
-        "AZIONE": "ISTITUZIONE PRESIDIO STRADALE SS26E SENSO UNICO ALTERNATO "
+        "AZIONE": "ISTITUZIONE PRESIDIO STRADALE SS26E SENSO UNICO ALTERNATO ",
+        "SOGGETTO": "(TURNAZIONE)"
       },
       "geometry": {
         "type": "Point",
@@ -49048,7 +49053,8 @@
         "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "car",
-        "AZIONE": "ISTITUZIONE PRESIDIO STRADALE SS26E SENSO UNICO ALTERNATO "
+        "AZIONE": "ISTITUZIONE PRESIDIO STRADALE SS26E SENSO UNICO ALTERNATO ",
+        "SOGGETTO": "(TURNAZIONE)"
       },
       "geometry": {
         "type": "Point",
